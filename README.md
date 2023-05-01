@@ -4,5 +4,6 @@ This project was aimed at creating factories as well as making the objects move 
 
 Next I plan to create a background for the page to resemble the actual pacman game a bit more and add some of the blobs they chase with their own factory funtion for creation.
 
-
-All material is subject to MITxPro licensing and they reserve the rights to the project.
+To run this Repo:
+1. Clone this repo
+2. Run on your local machine
